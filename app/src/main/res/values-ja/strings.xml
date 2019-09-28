@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">モバイルデバイスを設計します。</string>
+    <string name="desc_Text">ここにテキストを入力できます。</string>
+    <string name="pictureButtom">絵</string>
+    <string name="searchButtom">検索する</string>
+    <string name="textButtom">"テキスト "</string>
+    <string name="desc_picture">1つの美しい写真。</string>
+</resources>

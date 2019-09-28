@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjectMobileDevices</string>
+    <string name="searchButtom">Search</string>
+    <string name="pictureButtom">Picture</string>
+    <string name="textButtom">Text</string>
+    <string name="desc_Text">you can put yours text here.</string>
+    <string name="desc_picture">one beatiful picture.</string>
+</resources>

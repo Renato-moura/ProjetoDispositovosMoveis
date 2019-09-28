@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Diseño de dispositivos móviles.</string>
+    <string name="desc_Text">Puedes poner tu texto aquí.</string>
+    <string name="pictureButtom">Foto</string>
+    <string name="searchButtom">Buscar</string>
+    <string name="textButtom">Texto</string>
+    <string name="desc_picture">Una hermosa foto.</string>
+</resources>

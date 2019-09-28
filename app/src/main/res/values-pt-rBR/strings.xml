@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjetoDispositvosMoveis</string>
+    <string name="desc_Text">Voce pode colocar seu texto aqui!</string>
+    <string name="pictureButtom">Foto</string>
+    <string name="searchButtom">Busca</string>
+    <string name="textButtom">Texto</string>
+    <string name="desc_picture">uma bela foto.</string>
+</resources>
